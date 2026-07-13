@@ -5,3 +5,4 @@ build_log2.txt
 build/*
 dist/*
 *.spec
+*.zip
