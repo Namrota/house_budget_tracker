@@ -1,2 +1,7 @@
 /budget_tracker.venv
 /__pycache__
+build_log.txt
+build_log2.txt
+build/*
+dist/*
+*.spec
