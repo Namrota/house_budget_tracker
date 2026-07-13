@@ -1,1 +1,1 @@
-This repository is built to seamlessly track Expenses and savings of a household using Python and Streamlit.
+This repository is built to seamlessly track `Expenses` and `Savings` of a household using Python and Streamlit.
